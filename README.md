@@ -16,43 +16,26 @@ Over 13,000 companies are currently using Splunk in a wide range of domains:
 
 ## How are they using Splunk?
 
-### Vodafone
+### Vodafone  
+![vodafone](images/vodafone.png)  
+Vodafone is a telecommunication company that generates a massive amount customer data. They use Splunk to manage their big data on order to optimize and provide better their customer support.
 
 ### Domino's Pizza
+![dominos](images/dominos.png)  
+Domino's utilizes Splunk to analyze customer habits to better understand their wants and behaviors.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+These instructions will get Splunk up and running on your local machine for development and demo purposes. 
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+Create a free acount and download the free Enterprise Version for the machine you are using.  
+(Get 64-bit version if using Windows 10)
+* [Splunk Install](https://www.splunk.com/) 
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
+## Splunk Search and Reporting
+The Search & Reporting application (Search app) is the primary interface for using the Splunk software to run searches, save reports, and create dashboards. The application lets you search your data, create data models and pivots, save your searches and pivots as reports, configure alerts, and create dashboards, and is provided by default.
 
 ### Break down into end to end tests
 
@@ -76,8 +59,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **David Curtis** - [davidbradlycurtis](https://github.com/davidbradlycurtis)
-![Team Slide](Docs/workshop.JPG)
+* **David Curtis** - [davidbradlycurtis](https://github.com/davidbradlycurtis)  
+![Portrait](images/smallthumbnail.jpeg)
 
 ## References
 
