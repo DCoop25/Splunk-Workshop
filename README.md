@@ -40,13 +40,13 @@ The Search & Reporting application (Search app) is the primary interface for usi
 ### Input Data into Splunk
 
 In order to see how Search and Reporting works, we will need some data to analyze. Go to [this link](https://docs.splunk.com/Documentation/Splunk/8.0.3/SearchTutorial/Systemrequirements#Download_the_tutorial_data_files) and download the tutorialdata.zip located halfway down the page.  
-IMAGE
+![download](images/wsdatadownload.PNG) 
 
 Next, go to the Splunk home page and select Add Data.  
-IMAGE
+![addData](images/addDataSmall.png)
 
 Scroll to the bottom of the page and select Upload, as we want to use the data we just downloaded.  
-IMAGE
+![Upload](images/uploadSmall.png)
 
 From here you will select the tutorial.zip file. Press the Next button, followed by Review, then finally Submit.  
 We are now ready to search and analyze our new data!
@@ -56,7 +56,7 @@ We are now ready to search and analyze our new data!
 Now that we have some data to analyze, let's try out Splunk's Search application
 
 Still on the same page, press the Start Searching button to begin searching through the data we just uploaded.  
-IMAGE
+![Search](images/startSearchingSmall_LI.jpg)
 
 
 ```
