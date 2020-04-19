@@ -45,11 +45,11 @@ In order to see how Search and Reporting works we will need some data to analyze
 
 Next, go to the Splunk home page and select Add Data.
 
-![addData](images/uploaddata.PNG)
+![addData](images/addDataSmall.png)
 
 Scroll to the bottom of the page and select Upload, as we want to use the data we just downloaded.  
 
-![Upload](images/uploadSmall.png)
+![Upload](images/uploaddata.PNG)
 
 From here you will select the tutorial.zip file. Press the Next button, followed by Review, then finally Submit.  
 We are now ready to search and analyze our new data!
